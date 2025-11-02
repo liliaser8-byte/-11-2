@@ -41,7 +41,9 @@ int main() {
 <img width="1462" height="327" alt="image" src="https://github.com/user-attachments/assets/e5526f11-492e-4531-a280-d6851ac0ae42" />
 <img width="418" height="605" alt="image" src="https://github.com/user-attachments/assets/ac78f3b9-0de5-4df9-9970-61a9a2e5f403" />
 <img width="261" height="710" alt="image" src="https://github.com/user-attachments/assets/f3d516fc-aab6-4bba-9813-0482383064b1" />
+
 Програма запитує у користувача значення змінних t і b, після чого викликає функцію, яка обчислює три результати:<img width="347" height="27" alt="image" src="https://github.com/user-attachments/assets/f30e536b-435d-4016-b3ed-678ba84768f1" /> Отримані значення виводяться на екран. Програма реалізує покрокові математичні обчислення за заданими формулами.
+
 ## 📝 Висновок  
 ```markdown
 # ✅ Чек-лист знань
